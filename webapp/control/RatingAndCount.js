@@ -37,7 +37,7 @@ sap.ui.define([
 				}
 			}
 		},
-
+// Test
 		init: function() {
 			this._oRating = new RatingIndicator(this.getId() + "-rating");
 			this._oRating.setEnabled(false);
